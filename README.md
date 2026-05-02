@@ -1,4 +1,4 @@
-# 🔱 TITAN FIT — Elite Luxury Gym Landing Page
+# Gym - Website Template
 
 ![Titan Fit Hero](./public/readme/Screenshot.png)
 
